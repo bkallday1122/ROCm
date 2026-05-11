@@ -232,7 +232,7 @@ You can then visualize and view these metrics using an open-source profile visua
 ROCm profiling tools
 --------------------
 
-Heterogenous systems, where programs run on both CPUs and GPUs, introduce additional complexities. Understanding the
+Heterogeneous systems, where programs run on both CPUs and GPUs, introduce additional complexities. Understanding the
 critical path and kernel execution is all the more important. So, performance tuning is a necessary component in the
 benchmarking process.
 
@@ -1682,7 +1682,7 @@ Compute the occupancy of a kernel
       per CU.
 
    b. ``floor(occ_vgpr * 4 / nW)`` gives the occupancy of workgroups per CU
-      regrading VGPR usage.
+      regarding VGPR usage.
 
    c. The true ``occ`` is the minimum of the two.
 

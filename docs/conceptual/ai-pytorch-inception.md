@@ -626,7 +626,7 @@ Follow these steps:
     print("saved model to path :",PATH)
     net = Net()
     net.load_state_dict(torch.load(PATH))
-    print("loding back saved model")
+    print("loading back saved model")
     outputs = net(images)
     _, predicted = torch.max(outputs, 1)
     print('Predicted: ', ' '.join('%5s' % classes[predicted[j]] for j in range(4)))
