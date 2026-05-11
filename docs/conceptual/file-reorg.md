@@ -21,7 +21,7 @@ In order to standardize ROCm directory structure and directory content layout RO
          | -- all public binaries
     | -- lib
          | -- lib<soname>.so->lib<soname>.so.major->lib<soname>.so.major.minor.patch
-              (public libaries to link with applications)
+              (public libraries to link with applications)
          | -- <component>
               | -- architecture dependent libraries and binaries used internally by components
          | -- cmake

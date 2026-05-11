@@ -42,7 +42,7 @@ Run the command:
 
    amd-smi set --perf-determinism 1900
 
-See `Hardware verfication for ROCm <https://instinct.docs.amd.com/projects/amdgpu-docs/en/latest/system-optimization/mi300x.html#hardware-verification-with-rocm>`_
+See `Hardware verification for ROCm <https://instinct.docs.amd.com/projects/amdgpu-docs/en/latest/system-optimization/mi300x.html#hardware-verification-with-rocm>`_
 in the Instinct documentation for more information.
 
 RCCL Bandwidth Test for multi-node setups

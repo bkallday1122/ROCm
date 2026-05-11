@@ -1,6 +1,6 @@
 .. meta::
    :description: Conceptual overview of fine-tuning LLMs
-   :keywords: ROCm, LLM, Llama, fine-tuning, usage, tutorial, optimzation, LoRA, walkthrough, PEFT, Reinforcement
+   :keywords: ROCm, LLM, Llama, fine-tuning, usage, tutorial, optimization, LoRA, walkthrough, PEFT, Reinforcement
 
 ***************************************
 Conceptual overview of fine-tuning LLMs
