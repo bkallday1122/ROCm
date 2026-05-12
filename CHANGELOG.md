@@ -10312,7 +10312,7 @@ on GitHub for a complete overview of this release.
 #### Changed
 
 - Test adjustments due to roundoff errors.
-- Fixing API calls compatiblity with rocPRIM.
+- Fixing API calls compatibility with rocPRIM.
 
 #### Optimized
 
