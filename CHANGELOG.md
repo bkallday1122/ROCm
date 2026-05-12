@@ -9800,7 +9800,7 @@ ROCFFT_RTC_CACHE_PATH environment variable.
 
 #### Changed
 
-- Changed CMake to accomodate the modified test infrastructure
+- Changed CMake to accommodate the modified test infrastructure
 - Fine tuned the multi-block kernels with and without lds
 - Adjusted Maximum Vector Width to dWordx4 Width
 - Updated Efficiencies to display as whole number percentages
