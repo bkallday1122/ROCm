@@ -323,12 +323,12 @@ The ROCm-LS GA release is marked with the transition of hipCIM from EA to produc
 
 ### Deep learning and AI framework updates
 
-ROCm provides a comprehensive ecosystem for deep learning development. For more information, see [Deep learning frameworks for ROCm](../../docs/how-to/deep-learning-rocm.rst) and the [Compatibility
-matrix](../../docs/compatibility/compatibility-matrix.rst) for the complete list of Deep learning and AI framework versions tested for compatibility with ROCm. AMD ROCm has officially updated support for the following Deep learning and AI frameworks:
+ROCm provides a comprehensive ecosystem for deep learning development. For more information, see [Deep learning frameworks for ROCm](docs/how-to/deep-learning-rocm.rst) and the [Compatibility
+matrix](docs/compatibility/compatibility-matrix.rst) for the complete list of Deep learning and AI framework versions tested for compatibility with ROCm. AMD ROCm has officially updated support for the following Deep learning and AI frameworks:
 
 #### JAX
 
-ROCm 7.2.0 enables support for JAX 0.8.0. For more information, see [JAX compatibility](../../docs/compatibility/ml-compatibility/jax-compatibility.rst).
+ROCm 7.2.0 enables support for JAX 0.8.0. For more information, see [JAX compatibility](docs/compatibility/ml-compatibility/jax-compatibility.rst).
 
 #### ONNX Runtime
 
